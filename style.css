@@ -1,0 +1,17 @@
+/* Do not change this file for this exercise*/
+
+div {
+    padding: 5px;
+}
+
+.todo {
+    background-color: red;
+}
+
+.doing {
+    background-color: yellow;
+}
+
+.done {
+    background-color: green;
+}
